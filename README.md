@@ -145,4 +145,69 @@ This is not a bug. This is the system.
 ---
 
 ## Official Repository Structure
+balady-framework/
+├── README.md
+├── principles/
+│ └── balady-principles.md
+├── lifecycle/
+│ └── balady-lifecycle.md
+├── artifacts/
+│ ├── niya.md
+│ ├── surprise-requirements.md
+│ ├── dont_touch_this.md
+│ └── status-template.xlsx
+├── roles/
+│ └── roles.md
+├── anti-patterns/
+│ └── masry-anti-patterns.md
+└── LICENSE
+
+
+---
+
+## Common Anti-Patterns (معترف بها)
+
+- “هنظبطها بعدين”
+- “ما هي شغالة على جهازي”
+- “العميل مش هياخد باله”
+- “خليها كده دلوقتي”
+- “Copy-paste من مشروع تاني”
+
+---
+
+## When to Use Balady Framework
+
+✅ High uncertainty  
+✅ Fast delivery pressure  
+✅ Strong individual contributors  
+✅ Relationship-driven cultures  
+
+❌ Nuclear facilities  
+❌ Aviation control systems  
+❌ NASA (probably)
+
+---
+
+## Serious Mode™ (Optional)
+
+Balady Framework can be mapped to:
+- Agile → Controlled Chaos  
+- SAFe → Scaled Panic  
+- Scrum → Daily Tea Meeting  
+- Retrospective → “المرة الجاية”
+
+---
+
+## Final Words
+
+> **Balady Framework does not deny chaos.  
+It weaponizes it.**
+
+Use responsibly.  
+Laugh often.  
+Deliver anyway.
+
+---
+
+🧃 *Made with chaos, caffeine, and good intentions.*
 
